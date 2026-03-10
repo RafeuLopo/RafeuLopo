@@ -26,6 +26,9 @@ Tenho experiência prática na construção de crawlers de larga escala, process
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 ### Contato
 
 * **LinkedIn:** [Rafael Lopes Mello](https://br.linkedin.com/in/rafael-lopes-mello)
