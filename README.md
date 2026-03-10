@@ -1,7 +1,7 @@
 # Rafael Lopes
 ## Software Developer & Data Scientist
 
-Sou estudante de graduação e desenvolvedor focado em soluções de Engenharia de Dados, Web Scraping e Análise Geoespacial. Atualmente sou pesquisador no LabCidade, onde desenvolvo pipelines de dados e ferramentas para análise urbana e jurídica.
+Sou Graduado em Ciência de Dados e desenvolvedor focado em soluções de Engenharia de Dados, Web Scraping e Análise Geoespacial. Atualmente sou pesquisador no LabCidade, onde desenvolvo pipelines de dados e ferramentas para análise urbana.
 
 Tenho experiência prática na construção de crawlers de larga escala, processamento de grandes volumes de dados (Parquet/CSV) e implantação de serviços em nuvem utilizando Microsoft Azure e AWS.
 
@@ -12,7 +12,7 @@ Tenho experiência prática na construção de crawlers de larga escala, process
 * **Linguagens e Ferramentas:** Python (Pandas, Selenium, Geopandas, NumPy), R, SQL.
 * **Engenharia de Dados:** Pipelines de ETL, extração de dados públicos (ANA, TJSP, CETESB) e automação de processos.
 * **Cloud & DevOps:** Azure Functions, Container Apps, Blob Storage e ambientes Docker.
-* **Geoprocessamento:** Geocodificação de endereços, manipulação de geometrias com Shapely e integração com servidores Nominatim.
+* **Geoprocessamento:** Geocodificação de endereços, manipulação de geometrias com Shapely, integração com servidores Nominatim e QGIS.
 
 ---
 
