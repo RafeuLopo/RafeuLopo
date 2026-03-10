@@ -25,10 +25,6 @@ Tenho experiência prática na construção de crawlers de larga escala, process
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/RafeuLopo/github-readme-stats)
-
----
 ### Contato
 
 * **LinkedIn:** [Rafael Lopes Mello](https://br.linkedin.com/in/rafael-lopes-mello)
