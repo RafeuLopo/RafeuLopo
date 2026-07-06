@@ -18,6 +18,8 @@ Tenho experiência prática na construção de crawlers de larga escala, process
 
 ### Stack Tecnológica
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RafeuLopo&layout=compact&hide_title=true&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&hide_title=true&langs_count=4&theme=radical)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
