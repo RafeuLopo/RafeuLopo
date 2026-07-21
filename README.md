@@ -1,5 +1,5 @@
 # Rafael Lopes
-## Software Developer & Data Scientist
+## Data Scientist & Software Developer
 
 Sou Graduado em Ciência de Dados e desenvolvedor focado em soluções de Engenharia de Dados, Web Scraping e Análise Geoespacial. Atualmente sou pesquisador no LabCidade, onde desenvolvo pipelines de dados e ferramentas para análise urbana.
 
